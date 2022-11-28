@@ -1,8 +1,7 @@
 div{
     background: lightblue;
     padding: 50px;
-    margin: 20px;
+    margin:20px auto;
     border: 15px solid blue;
     width: 300px;
-    margin: 0 auto;
 }
